@@ -1,9 +1,9 @@
 # Toonify Me
 
 ## Overview
-Cartoonify Image Tool is an engaging and user-friendly application designed to transform your regular photos into captivating cartoon-style images. Leveraging advanced image processing techniques with OpenCV and Python, this tool offers a unique
+Toonify Me image tool is an engaging and user-friendly application designed to transform your regular photos into captivating cartoon-style images. Leveraging advanced image processing techniques with OpenCV and Python, this tool offers a unique
 
-<img src="https://github.com/snehalathatuniki/Toonifyme/assets/43737913/0d2b5570-d9b3-4e8c-8516-5df03d588cad" alt="Image 1" width="1000" height="300">
+<img src="https://github.com/snehalathatuniki/Toonifyme/assets/43737913/0d2b5570-d9b3-4e8c-8516-5df03d588cad" alt="Image 1" width="500" height="500">
 
 ## Features
 - **Intuitive Interface**: Simple GUI built with Tkinter for effortless navigation and usage.
@@ -14,7 +14,7 @@ Cartoonify Image Tool is an engaging and user-friendly application designed to t
 
 ### Required Libraries
 - OpenCV (`opencv-python`)
-- Tkinter (usually included in Python standard library)
+- Tkinter
 - Pillow (`PIL`)
 - NumPy (`numpy`)
 - Matplotlib (`matplotlib`)
