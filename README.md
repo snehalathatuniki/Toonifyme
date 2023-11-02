@@ -20,3 +20,6 @@ Toonify Me image tool is an engaging and user-friendly application designed to t
 - Matplotlib (`matplotlib`)
 - EasyGUI (`easygui`)
 - ImageIO (`imageio`)
+
+### UI
+<img src="https://github.com/snehalathatuniki/Toonifyme/assets/43737913/2c24153a-3224-4c9a-bd0b-70545886a4fa" alt="Image 1" width="300" height="300">
